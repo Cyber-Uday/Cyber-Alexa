@@ -1,2 +1,2 @@
 # Cyber-Alexa
-Cyber Alexa is a personal AI-powered virtual assistant.
+Cyber Alexa is a personal AI-powered virtual assistant designed to perform various tasks through voice commands. This assistant can access the web, play music, fetch news updates, and even generate AI-powered responses using OpenAI. It leverages popular Python libraries like speech_recognition, pyttsx3, gTTS, and pygame for seamless voice interactions. Here's a breakdown of its key features and functionalities:
